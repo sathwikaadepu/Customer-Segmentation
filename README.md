@@ -1,6 +1,7 @@
 
 # Overview
 Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.
+
 ![data](https://github.com/sathwikaadepu/Customer-Segmentation/assets/110988613/a03ff586-a41d-4182-ba0d-ffef8da43241)
 # What is Customer Segmentation
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
@@ -16,8 +17,7 @@ The dataset is aquired from kaggle and the link is given below :
 https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
 The dataset consists of following five features of 200 customers:
-
-CustomerID: Unique ID assigned to the customer
+.CustomerID: Unique ID assigned to the customer
 
 Gender: Gender of the customer
 
@@ -26,9 +26,3 @@ Age: Age of the customer
 Annual Income (k$): Annual Income of the customer
 
 Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
-
-Steps for implementation
-Import all neccessary packages
-import ----- from ------
-import -----
-Data Exploration
