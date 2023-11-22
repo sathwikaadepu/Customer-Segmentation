@@ -1,6 +1,6 @@
 # Customer Segmentation
 ## Overview
-Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.
+Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of [K-means clustering](https://www.google.com/search?q=k-means+clustering&rlz=1C1CHBF_enIN1038IN1038&oq=K-means+clustering&gs_lcrp=EgZjaHJvbWUqDAgAEAAYQxiABBiKBTIMCAAQABhDGIAEGIoFMg0IARAAGIMBGLEDGIAEMgwIAhAAGEMYgAQYigUyDAgDEAAYQxiABBiKBTIHCAQQABiABDIHCAUQABiABDIGCAYQRRg9MgYIBxBFGD3SAQc3NzRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8) which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.
 
 ![data](https://github.com/sathwikaadepu/Customer-Segmentation/assets/110988613/a03ff586-a41d-4182-ba0d-ffef8da43241)
 ## What is Customer Segmentation
@@ -16,13 +16,26 @@ While using the k-means clustering algorithm, the first step is to indicate the 
 
 https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
-The dataset consists of following five features of 200 customers:
-.CustomerID: Unique ID assigned to the customer
+**The dataset consists of following five features of 200 customers:**
 
-Gender: Gender of the customer
++CustomerID: Unique ID assigned to the customer
 
-Age: Age of the customer
++Gender: Gender of the customer
 
-Annual Income (k$): Annual Income of the customer
++Age: Age of the customer
 
-Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
++Annual Income (k$): Annual Income of the customer
+
++Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
+
+## Steps for implementation
+
++Import all neccessary packages
+
+```
+import ----- from ------
+import -----
+```
+
+
+
